@@ -1,0 +1,9 @@
+{
+  "name": "bros-application",
+  "version": "0.0.0",
+  "description": "BrosApplication",
+  "main": "app.js",
+  "author": {
+    "name": ""
+  }
+}
