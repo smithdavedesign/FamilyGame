@@ -3,7 +3,20 @@
   "version": "0.0.0",
   "description": "BrosApplication",
   "main": "app.js",
-  "author": {
-    "name": ""
+  "author": "",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/smithdavedesign/FamilyGame.git"
+  },
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/smithdavedesign/FamilyGame/issues"
+  },
+  "homepage": "https://github.com/smithdavedesign/FamilyGame#readme",
+  "dependencies": {
+    "express": "^4.17.1"
   }
 }
