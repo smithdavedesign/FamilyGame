@@ -1,3 +1,0 @@
-C:\Users\david smith\Documents\GitHub\BrosApplication\obj\Debug\BrosApplication.njsprojAssemblyReference.cache
-C:\Users\david smith\Documents\GitHub\BrosApplication\obj\Debug\BrosApplication.njsproj.CoreCompileInputs.cache
-C:\Users\david smith\Documents\GitHub\BrosApplication\bin\Microsoft.NodejsTools.WebRole.dll
